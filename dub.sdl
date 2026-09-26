@@ -1,0 +1,7 @@
+name "server-helper"
+description "A way to manage multiple server instances"
+authors "BunnyKing"
+copyright "Copyright © 2026, BunnyKing"
+license "proprietary"
+dependency "arsd-official:minigui" version="~>12.1.2"
+versions "minigui_no_manifest"
